@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Copito Comments\n"
+"POT-Creation-Date: 2018-05-04 19:13-0300\n"
+"PO-Revision-Date: 2018-05-04 19:15-0300\n"
+"Last-Translator: \n"
+"Language-Team: CopitoSystem\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-copito-comments-admin.php:186
+msgid "Unknown error."
+msgstr "Error desconocido."
+
+#: admin/class-copito-comments-admin.php:190
+msgid "Failed: empty comment."
+msgstr "Falló: sin comentario."
+
+#: admin/class-copito-comments-admin.php:194
+msgid "Comment added successfully."
+msgstr "Comentario agregado de forma exitosa."
+
+#: admin/class-copito-comments-admin.php:211
+msgid "Thank you for using Copito Comments. <b>Version: "
+msgstr "Gracias por utilizar Copito Comments. <b>Versión: "
+
+#: admin/partials/copito-comments-admin-display.php:20
+msgid "Move all your comments to your site."
+msgstr "Mové todos los comentarios a tu sitio."
+
+#: admin/partials/copito-comments-admin-display.php:27
+msgid "Add comments"
+msgstr "Agregar comentarios"
+
+#: admin/partials/copito-comments-admin-display.php:28
+msgid "About"
+msgstr "Acerca de"
+
+#: admin/partials/copito-comments-admin-display.php:33
+msgid "Fill in the form to create a comment."
+msgstr "Llená el formulario para crear un comentario."
+
+#: admin/partials/copito-comments-admin-display.php:34
+msgid ""
+"Just write the name of the person who is posting the comment and the content "
+"of it. Keep in mind that it's not necesary that the person is registered to "
+"do it. Select the post you want to comment and you are done."
+msgstr ""
+"Escribí el nombre de la persona que creó el comentario y el contenido del "
+"mismo. Recordá que no es necesario que dicha persona esté registrada para "
+"hacerlo. Seleccioná la entrada a comentar y listo."
+
+#: admin/partials/copito-comments-admin-display.php:40
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/partials/copito-comments-admin-display.php:45
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: admin/partials/copito-comments-admin-display.php:47
+msgid "Optional"
+msgstr "Opcional"
+
+#: admin/partials/copito-comments-admin-display.php:52
+msgid "Comment"
+msgstr "Comentario"
+
+#: admin/partials/copito-comments-admin-display.php:53
+msgid "Insert your content here..."
+msgstr "Insertá tu contenido aquí..."
+
+#: admin/partials/copito-comments-admin-display.php:57
+msgid "Post"
+msgstr "Entrada"
+
+#: admin/partials/copito-comments-admin-display.php:78
+msgid "Only last 50 being displayed"
+msgstr "Solo se muestran los últimos 50"
+
+#: admin/partials/copito-comments-admin-display.php:83
+msgid "Add comment"
+msgstr "Agrear comentario..."
+
+#: admin/partials/copito-comments-admin-display.php:89
+msgid "About the plugin"
+msgstr "Acerca del plugin"
+
+#: admin/partials/copito-comments-admin-display.php:90
+msgid ""
+"Be able to copy your social media comments or private messages to your "
+"website."
+msgstr ""
+"Se capaz de copiar los comentarios o mensaje privados de tus redes sociales "
+"a tu sitio web."
+
+#: admin/partials/copito-comments-admin-display.php:91
+msgid ""
+"This plugin allows you to convert each message to comments by hand and "
+"migrate them all to your website. Just select the post you want to place the "
+"comment, write a name and copy the content."
+msgstr ""
+"Este plugin te permite convertir de forma manual cada mensaje a comentarios "
+"en tu sitio web."
+
+#: admin/partials/copito-comments-admin-display.php:92
+msgid ""
+"If you have any problem or need a detailed explanation of how to use this "
+"plugin, click the button below and we will contact you soon."
+msgstr ""
+"Si tenés algún problema o necesitás una explicación más detallada de como "
+"usar este plugin, hacé click en el botón de abajo y nos pondremos en "
+"contacto pronto."
+
+#: admin/partials/copito-comments-admin-display.php:93
+msgid "Made by"
+msgstr "Hecho por"
+
+#: admin/partials/copito-comments-admin-display.php:95
+msgid "Learn More"
+msgstr "Obtener más información"
+
+#: admin/partials/copito-comments-admin-display.php:96
+msgid "Comming soon!"
+msgstr "¡Próximamente!"
+
+#: admin/partials/copito-comments-admin-display.php:96
+msgid "Go Premium"
+msgstr "Hacerse Premium"
+
+#: admin/partials/copito-comments-admin-display.php:100
+msgid "Give us your feedback or make a donation"
+msgstr "Envianos tu comentario o hacé una donación"
+
+#: admin/partials/copito-comments-admin-display.php:101
+msgid ""
+"We focus on creating a great product, and the best way we can achieve that "
+"is by taking our user's feedbacks."
+msgstr ""
+"Nos enfocamos en crear un gran producto, y la mejor forma de lograrlo es "
+"recibiendo la opinión de nuestros usuarios."
+
+#: admin/partials/copito-comments-admin-display.php:102
+msgid ""
+"If you really liked this plugin, feel free to send me a little donation (I "
+"need a new pc :)"
+msgstr ""
+"Si realmente te gustó este plugin, podés enviarme una pequeña donación "
+"(necesito una nueva pc :)"
+
+#: admin/partials/copito-comments-admin-display.php:105
+msgid "Give Your Feedback"
+msgstr "Dar tu opinión"
+
+#: admin/partials/copito-comments-admin-display.php:118
+msgid "Copito System news"
+msgstr "Noticias de Copito System"
+
+#: admin/partials/copito-comments-admin-display.php:119
+msgid "Find the best coding tutorials"
+msgstr "Encontrá los mejores tutoriales de programación"
+
+#: admin/partials/copito-comments-admin-display.php:121
+msgid "Services"
+msgstr "Servicios"
+
+#: admin/partials/copito-comments-admin-display.php:122
+msgid "Would you like to learn how to code?"
+msgstr "¿Te gustaría aprender a programar?"
+
+#: admin/partials/copito-comments-admin-display.php:122
+msgid "Let's us teach you in a simple and easy way!"
+msgstr "¡Dejanos enseñarte de una forma simple y rápida!"
+
+#~ msgid "Donate"
+#~ msgstr "Donar"

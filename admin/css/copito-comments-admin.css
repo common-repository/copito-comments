@@ -1,0 +1,44 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.tab-panel {
+    padding-top: 16px; 
+}
+.copito-content {
+    display: table;
+}
+.copito-tabs {
+    display: table-cell;
+    width: 76%;
+    max-width: 720px;
+}
+.copito-ads {
+    width: 261px;
+    padding: 0 0 0 19px;
+    vertical-align: top;
+}
+.copito-go-premium-tabs {
+    line-height: 28px;
+    margin-left: 15px;
+}
+.wrap p{
+    font-size: 13px;
+    line-height: 1.5;
+    max-width: 650px;
+}
+
+@media screen and (max-width: 960px) { /* width at which layout changes  */
+    .copito-content {
+        display: list-item;
+    }
+    .copito-tabs {
+        display: list-item;
+        width: 100%;
+    }
+    .copito-ads {
+        width: 100%;
+        padding: 0 0 0 19px;
+    }
+}
